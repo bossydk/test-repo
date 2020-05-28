@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "DataIndsigt",
+    "owner": "Bo Olsen",
+    "description": "High level description of DataIndsigt"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Overview",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Dirk Hasselbach"
+  }
+}
